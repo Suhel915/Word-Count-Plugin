@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: Our Test Plugin
+  Plugin Name: Word Count
   Description: A truly amazing plugin.
   Version: 1.0
   Author: Suhel
